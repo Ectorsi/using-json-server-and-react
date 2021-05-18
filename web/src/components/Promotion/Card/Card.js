@@ -32,6 +32,9 @@ const PromotionCard = ({ promotion }) => (
         </a>
         <Link to={`/edit/${promotion.id}`} >Editar</Link>
       </footer>
+
+          
+
     </div>
   </div>
 );
