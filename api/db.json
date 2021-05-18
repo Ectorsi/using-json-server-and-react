@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
-      "price": 1799,
+      "price": "1799.00",
       "url": "",
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
     },
@@ -24,7 +24,7 @@
     {
       "id": 4,
       "title": "Fone de Ouvido Jaybird Run XT Sport Bluetooth, Cinza",
-      "price": 699.9,
+      "price": "699.90",
       "url": "",
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/9c4b176eb52bb4877e853cf36393d8fc.jpg"
     },
@@ -32,14 +32,14 @@
       "title": "Papel A4 Sulfite 75g/m² Branco - 500 Folhas - 210mmx297mm - Report",
       "url": "https://shopee.com.br/product/299600292/4461338648",
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/5aa6cd01fa3d7148dcb1cb2f4bad6d08.jpg",
-      "price": "13",
+      "price": "13.00",
       "id": 5
     },
     {
       "title": "Mi Band 6 - Versão Multi-linguagem - Importação",
       "url": "https://tidd.ly/2S5ToVn",
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/7620e771f6658be6d70c08def189a8d6.jpg",
-      "price": "163",
+      "price": "165.60",
       "id": 6
     }
   ],
