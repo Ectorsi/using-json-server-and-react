@@ -42,6 +42,15 @@ const PromotionForm = ({id}) => {
     })
   }
 
+  function click() {
+
+
+    axios.delete(`http://localhost:5000/promotions/${id}`)
+      .then(response => {
+        history.push('/')
+      })
+  }
+
   return (
     <div >
     <h1>Promo Show</h1>
@@ -69,8 +78,9 @@ const PromotionForm = ({id}) => {
         <label htmlFor="price">Preço</label>
         <input id="price" name="price" type="number" onChange={onChange} value={values.price} />
       </div>
-      <div>
-        <button type="submit" >Salvar</button>
+      <div className="promotion-form__buttons">
+        <button type="submit" className="promotion-card__save-button" >Salvar</button>
+        <button className="promotion-card__delete-button" type="button" onClick={() => click()} >Excluir</button>
       </div>
     </form>
 
